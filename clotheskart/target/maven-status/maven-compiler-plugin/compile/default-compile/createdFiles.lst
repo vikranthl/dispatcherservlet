@@ -1,0 +1,17 @@
+com\user\DAO\SupplierDAO.class
+com\user\model\Category.class
+com\user\DAO\CategoryDAOimpl.class
+com\user\DAO\ProductDAO.class
+com\user\DAO\ProductDAOimpl.class
+com\user\DAO\UserDAOimpl.class
+com\user\model\Product.class
+com\user\model\User.class
+com\user\DAO\SupplierDAOimpl.class
+com\user\model\Supplier.class
+com\user\DAO\CategoryDAO.class
+com\user\Controller\Admincontroller.class
+com\user\Controller\Suppliercontroller.class
+com\user\Controller\Productcontroller.class
+com\user\Controller\Categorycontroller.class
+com\user\Controller\usercontroller.class
+com\user\DAO\UserDAO.class
